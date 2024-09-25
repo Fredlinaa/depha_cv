@@ -23,7 +23,7 @@
               <a class="nav-link" @click="scroll('portfolio')">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" @click="scroll('cv')">CV</a>
+              <a class="nav-link" @click="scroll('cv')">cv</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" @click="scroll('contact')">Contact</a>
@@ -38,7 +38,7 @@
         <About />
         <WorkExperience />
         <Portfolio />
-        <CV />
+        <cv />
         <Contact />
       </main>
     </div>
