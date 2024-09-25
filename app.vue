@@ -55,7 +55,7 @@ import Profile from './components/Profile.vue';
 import About from './components/About.vue';
 import WorkExperience from './components/WorkExperience.vue';
 import Portfolio from './components/Portfolio.vue';
-import CV from './components/CV.vue';
+import cv from './components/cv.vue';
 import Contact from './components/Contact.vue';
 
 export default {
@@ -65,7 +65,7 @@ export default {
     About,
     WorkExperience,
     Portfolio,
-    CV,
+    cv,
     Contact,
   },
   methods: {
